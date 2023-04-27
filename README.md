@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a project manager engineer from the construction area who is unlocking new skills in the technology field. <br>I'm currently learning HTML, CSS, JavaScript, and other related languages...<br><br> I aim to secure a job in this field and apply my newly acquired skills.<br> I'm thrilled about the opportunities that lie ahead and eager to put into practice all that I have learned.
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dd911619-0068-4d9f-bf8c-b27eaa71f9b6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Certiprof](https://img.shields.io/badge/Certiprof-Lifelong%20Learning-blue)](https://www.credly.com/badges/dd911619-0068-4d9f-bf8c-b27eaa71f9b6/public_url)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Mac-9072) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mauriciocoronado) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mralizarincrimson) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AlizarinCr) 
